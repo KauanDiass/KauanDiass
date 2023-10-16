@@ -4,4 +4,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanDiass&bg_color=DEG,142C42FF,0E1E2EFF&locale=pt-br)](https://github.com/KauanDiass/github-reade-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanDiass&bg_color=DEG,142C42FF,0E1E2EFF&locale=pt-br&border_color=08121BFF)](https://github.com/KauanDiass/github-reade-stats)
